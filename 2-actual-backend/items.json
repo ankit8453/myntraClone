@@ -1,0 +1,100 @@
+{
+  "items": [
+    [
+      {
+        "id": "001",
+        "image": "images/1.png",
+        "company": "Livon",
+        "item_name": "Set Of 2 Anti-Frizz Hair Serum With Vitamin E & Argan Oil - 50ml Each",
+        "original_price": 340,
+        "current_price": 170,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.5, "count": 1400 }
+      },
+      {
+        "id": "002",
+        "image": "images/2.png",
+        "company": "DressBerry",
+        "item_name": "Blue & Yellow Floral Maxi Dress",
+        "original_price": 2599,
+        "current_price": 1507,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.3, "count": 24 }
+      },
+      {
+        "id": "003",
+        "image": "images/3.png",
+        "company": "H&M",
+        "item_name": "Women Wide Ultra High Jeans",
+        "original_price": 4000,
+        "current_price": 1999,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.1, "count": 249 }
+      },
+      {
+        "id": "004",
+        "image": "images/4.png",
+        "company": "YK Disney",
+        "item_name": "Girls Pack Of 3 Minnie Mouse Cotton T-shirts",
+        "original_price": 1930,
+        "current_price": 482,
+        "discount_percentage": 75,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 5, "count": 272 }
+      },
+      {
+        "id": "005",
+        "image": "images/5.png",
+        "company": "Roadster",
+        "item_name": "The Lifestyle Co. Solid Pure Cotton Bomber Jacket",
+        "original_price": 4599,
+        "current_price": 2199,
+        "discount_percentage": 65,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.2, "count": 3500 }
+      },
+      {
+        "id": "006",
+        "image": "images/6.png",
+        "company": "MANCODE",
+        "item_name": "Beard Growth Oil 50ml",
+        "original_price": 499,
+        "current_price": 224,
+        "discount_percentage": 55,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.8, "count": 0 }
+      },
+      {
+        "id": "007",
+        "image": "images/7.png",
+        "company": "THE BEAR HOUSE",
+        "item_name": "Men White & Blue Slim Fit Pure Cotton Checked Casual Shirt",
+        "original_price": 2495,
+        "current_price": 1247,
+        "discount_percentage": 50,
+        "rating": { "stars": 4.2, "count": 974 }
+      },
+      {
+        "id": "008",
+        "image": "images/8.jpg",
+        "company": "Nivea",
+        "item_name": "Men Fresh Deodrant 150ml",
+        "original_price": 285,
+        "current_price": 142,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.2, "count": 5200 }
+      }
+    ]
+  ]
+}
